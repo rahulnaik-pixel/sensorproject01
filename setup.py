@@ -18,7 +18,7 @@ setup(
     name='Fault detection',
     version='0.0.1',
     author='imran',
-    author_mail='md.a@pw.live',
+    author_mail='rahulmoto520@gmail.com',
     install_requirements=get_requirements('requirements.txt'),
     packages=find_packages() 
 )
